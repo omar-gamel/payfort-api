@@ -2,7 +2,7 @@
 
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#custom-merchant-page-integration
 
-# tokenization (for handling & saving credit card details) (client side)
+# tokenization (for handling & saving credit card details) 
 https://paymentservices.amazon.com/docs/EN/31.html
 
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#create-new-token-service
