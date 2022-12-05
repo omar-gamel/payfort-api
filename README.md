@@ -1,32 +1,3 @@
-# PAYFORT METHOD:  Custom merchant page integration
+When you use our custom merchant page integration route you build your own payment form that captures payment data and that directly submits that data to Amazon Payment Services for payment authorization.
 
-https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#custom-merchant-page-integration
-
-# tokenization (for handling & saving credit card details) 
-https://paymentservices.amazon.com/docs/EN/31.html
-
-https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#create-new-token-service
-
-# Purchase
-https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#custom-merchant-page-integration
-
-https://paymentservices.amazon.com/docs/EN/34b.html
-
-# transaction feedback
-https://paymentservices.amazon.com/docs/EN/38.html
-https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#transaction-feedback
-
-# SIGNATURE CREATION
-https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#create-signature-value
-
-# TESTING 
-https://paymentservices.amazon.com/docs/EN/12.html
-
-# RESPONSE CODES 
-https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#transactions-response-codes
-
-# CHECK STATUS 
-https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#check-status
-
-# SECURITY SETTINGS 
-https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#security-settings
+Custom merchant page integration is a good choice if you want the highest level of on-page customization, or if your ecommerce use case has unique technical requirements.
