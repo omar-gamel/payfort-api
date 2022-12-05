@@ -24,10 +24,10 @@ https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#
 TESTING 
 https://paymentservices.amazon.com/docs/EN/12.html
 
-RESPONSE CODES 
+# RESPONSE CODES 
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#transactions-response-codes
 
-CHECK STATUS 
+# CHECK STATUS 
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#check-status
 
 SECURITY SETTINGS 
