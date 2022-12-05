@@ -16,7 +16,6 @@ https://paymentservices.amazon.com/docs/EN/34b.html
 https://paymentservices.amazon.com/docs/EN/38.html
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#transaction-feedback
 
-*******
 # SIGNATURE CREATION
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#create-signature-value
 
