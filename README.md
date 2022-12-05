@@ -2,17 +2,17 @@
 
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#custom-merchant-page-integration
 
-# 1-tokenization (for handling & saving credit card details) (client side)
+# tokenization (for handling & saving credit card details) (client side)
 https://paymentservices.amazon.com/docs/EN/31.html
 
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#create-new-token-service
 
-# 2-Purchase
+# Purchase
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#custom-merchant-page-integration
 
 https://paymentservices.amazon.com/docs/EN/34b.html
 
-# 3-transaction feedback
+# transaction feedback
 https://paymentservices.amazon.com/docs/EN/38.html
 https://paymentservices-reference.payfort.com//docs/api/build/index.html?python#transaction-feedback
 
