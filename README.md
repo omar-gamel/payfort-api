@@ -94,9 +94,6 @@ Custom merchant page integration is a good choice if you want the highest level 
       <td>19</td>
       <td>
         - The clear credit card’s number.<br>
-        - Only the MEEZA payment option takes 19 digits card number.<br>
-        - AMEX payment option takes 15 digits card number.<br>
-        - Otherwise, they take 16 digits card number.<br>
         - Example: 4005550000000001
       </td>
     </tr>
@@ -107,7 +104,6 @@ Custom merchant page integration is a good choice if you want the highest level 
       <td>4</td>
       <td>
          - A security code for the card.<br> 
-         - Only AMEX accepts card security code of 4 digits.<br>
          - Example: 123
       </td>
     </tr>
