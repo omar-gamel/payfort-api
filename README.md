@@ -152,7 +152,7 @@ Custom merchant page integration is a good choice if you want the highest level 
       <td>Optional</td>
       <td>400</td>
       <td>
-         - The URL of the Merchant’s page to be displayed to the customer.<br>
+         - Page to be displayed to the customer.<br>
          - Example: https://www.merchant.com
       </td>
     </tr>
@@ -211,7 +211,6 @@ Custom merchant page integration is a good choice if you want the highest level 
       <td>Alphanumeric</td>
       <td>100</td>
       <td>
-        - The token received from the Tokenization process.<br> 
         - Example: Op9Vmp
       </td>
     </tr>
