@@ -105,7 +105,7 @@ Custom merchant page integration is a good choice if you want the highest level 
       <td>Mandatory</td>
       <td>200</td>
       <td>
-         - Example: 7cad05f0212ed933c9a5d5dffa31661acf2c827a
+          - A string hashed using the Secure Hash Algorithm.
       </td>
     </tr>
     <tr>
@@ -114,7 +114,6 @@ Custom merchant page integration is a good choice if you want the highest level 
       <td>Optional</td>
       <td>100</td>
       <td>
-         - The Token received from the Tokenization process.<br>
          - Example: Op9Vmp
       </td>
     </tr>
