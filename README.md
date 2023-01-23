@@ -62,21 +62,13 @@ Custom merchant page integration is a good choice if you want the highest level 
       <td>Mandatory</td>
       <td>20</td>
       <td>The Merchant’s unique order number.</td>
-    </tr>
-    <tr>
-      <td>language</td>
-      <td>Alpha</td>
-      <td>Mandatory</td>
-      <td>2</td>
-      <td>The checkout page and messages language.</td>
-    </tr>
+    </tr> 
     <tr>
       <td>language</td>
       <td>Alpha</td>
       <td>Mandatory</td>
       <td>2</td>
       <td>
-        - The checkout page and messages language.<br>
         - Expected values:  en - ar 
       </td>
     </tr>
@@ -113,8 +105,7 @@ Custom merchant page integration is a good choice if you want the highest level 
       <td>Mandatory</td>
       <td>200</td>
       <td>
-         - A string hashed using the Secure Hash Algorithm.<br>
-         - Example: 123
+         - Example: 7cad05f0212ed933c9a5d5dffa31661acf2c827a
       </td>
     </tr>
     <tr>
